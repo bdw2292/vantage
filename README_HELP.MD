@@ -11,10 +11,13 @@
 * "DefineParameterFilePath C:\Users\brand\Desktop\bin-windows-8.7.2\amoebabio18.txt "
 * "AssumePoltypeDefaults()"
 
+
 * Default loading display
+
 ![Default](Images/Default.PNG)
 
 * Auto command parser (tab key)
+
 ![AutoParser](Images/AutoParser.PNG)
 
 
@@ -66,16 +69,24 @@
 ## Showing Tinker Electrostatic Parameters
 
 * ShowTinkerMultipoleFrame atomindex
-![Z-Then-X](Images/Z-Then-X.PNG)
-![Z-Only](Images/Z-Only.PNG)
-![Bisector](Images/Bisector.PNG)
-![Z-Then-Bisector](Images/Z-Then-Bisector.PNG)
 * ShowTinkerDipoleCharges atomindex
 * ShowTinkerDipoleVector atomindex
-![DipoleVector](Images/DipoleVector.PNG)
 * ShowTinkerQuadrupoleCharges atomindex
-![ShowQuadrupoleCharges](Images/ShowQuadrupoleCharges.PNG)
 * ShowTinkerMonopoleCharge atomindex
+
+## Electrostatic Multipole Frame Examples
+* Z-Then-X Multipole Frame Example
+![Z-Then-X](Images/Z-Then-X.PNG)
+* Z-Only Multipole Frame Example
+![Z-Only](Images/Z-Only.PNG)
+* Bisector Multipole Frame Example
+![Bisector](Images/Bisector.PNG)
+* Z-Then-Bisector Multipole Frame Example
+![Z-Then-Bisector](Images/Z-Then-Bisector.PNG)
+* Dipole vector
+![DipoleVector](Images/DipoleVector.PNG)
+* Showing quadrupole charges
+![ShowQuadrupoleCharges](Images/ShowQuadrupoleCharges.PNG)
 
 
 AssumePoltypeDefaults
