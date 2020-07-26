@@ -3,7 +3,7 @@
 * Download free student education version or paid version through https://pymol.org/
 
 ## Download Interface
-* git clone 
+* git clone git@github.com:bdw2292/vantage.git 
 
 ## Download Poltype
 * git clone -b poltype2 git@github.com:pren/poltype.git poltype-poltype2
