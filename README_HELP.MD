@@ -5,11 +5,17 @@
 ## Initializing Pymol-Tinker Interface
 
 * Open PyMol
-* In the command prompt terminal type, "run path_to_tinker-pymol-wrapper.py", "run C:\Users\brand\Desktop\vantage.py"
-* "DefineTinkerBINPath C:\Users\brand\Desktop\bin-windows-8.7.2\bin-windows\ "
-* "DefinePoltypeFilePath C:\Users\brand\Desktop\SymmetryMethylamine "
-* "DefineParameterFilePath C:\Users\brand\Desktop\bin-windows-8.7.2\amoebabio18.txt "
-* "AssumePoltypeDefaults()"
+* locate the command terminal in PyMol
+
+```shell
+"run C:\Users\brand\Desktop\vantage.py"
+"DefineTinkerBINPath C:\Users\brand\Desktop\bin-windows-8.7.2\bin-windows\ "
+"DefinePoltypeFilePath C:\Users\brand\Desktop\SymmetryMethylamine "
+"DefineParameterFilePath C:\Users\brand\Desktop\bin-windows-8.7.2\amoebabio18.txt "
+"AssumePoltypeDefaults()"
+
+```
+
 
 
 * Default loading display
@@ -89,4 +95,3 @@
 ![ShowQuadrupoleCharges](Images/ShowQuadrupoleCharges.PNG)
 
 
-AssumePoltypeDefaults
