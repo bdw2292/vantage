@@ -1,6 +1,9 @@
 ### Usage
+#
+* VANTAGE - Visually Augmented Newtonian Theories for Analysis and Graphing Energies
 
 * Current support is only for AMOEBA model
+* Future support for other common moleculer dynamic (newtonian theories) models such as AMBER, HIPPO and CHARMM
 
 ## Initializing Pymol-Tinker Interface
 
